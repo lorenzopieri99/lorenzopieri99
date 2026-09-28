@@ -2,7 +2,7 @@
 
 
 👨‍🎓 Graduated in Economics <br>
-👨‍🏫 Currently enrolled in a master degree in Data Science and Business Informatics at @unipi <br>
+👨‍🏫 Master degree in Data Science and Business Informatics at @unipi <br>
 💻 Python, SQl, JavaScript, ETL <br>
 
 🗺 Love to wander around the world <br>
